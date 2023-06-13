@@ -15,11 +15,15 @@ Solicitar un DMRID: https://www.radioaficioncr.net/2020/06/solicitando-id-para-d
 
 ## Para instalar y utilizar la app, hay dos opciones
 
-1- Instalar la app desde el siguiente link, la cual ya cuenta con los vocoders integrados (solo disponible para android y windows)
+#### 1- Instalar la app desde el siguiente link, la cual ya cuenta con los vocoders integrados (solo disponible para android y windows)
 
 http://pizzanbeer.net/droidstar/
 
-2- Seguir las intrucciones a continuacion:
+En este caso, una vez instalada, saltearse al punto [Ya es hora de probar la APP!](#ya-es-hora-de-probar-la-app)
+
+
+
+#### 2- Seguir las instrucciones a continuación
 
 ### Descargar app
 
