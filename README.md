@@ -56,6 +56,7 @@ Para copiar los links desde el celular, mantener apretado el link y seleccionar 
 
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.android.arm
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.android.arm64
+http://xlx.lu9abm.com/vocoders/vocoder_plugin.darwin.x86_64
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.ios.arm
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.ios.arm64
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.linux.arm
