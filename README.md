@@ -55,15 +55,25 @@ Volviendo al tab "Settings", bajamos hasta encontrar "Vocoder URL" y pegamos la 
 Para copiar los links desde el celular, mantener apretado el link y seleccionar "Copiar direccion del vinculo"
 
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.android.arm
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.android.arm64
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.darwin.x86_64
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.ios.arm
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.ios.arm64
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.linux.arm
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.linux.arm64
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.linux.i386
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.linux.x86_64
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.winnt.i386
+
 http://xlx.lu9abm.com/vocoders/vocoder_plugin.winnt.x86_64
 
 > **NOTA IMPORTANTE!!**
