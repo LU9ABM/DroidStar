@@ -1,3 +1,5 @@
+# MOVIDO A https://blog.lu9abm.com/2023/11/configurar-doidstar-con-d-star.html
+
 # DroidStar
 La idea de esta guía es mostrar cómo configurar DroidStar para los sistemas de D-Star
 
